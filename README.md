@@ -1,4 +1,4 @@
-# Hi, I'm Patrick Byrne 👋
+# Hi, I'm Paddy 👋
 
 I'm a software engineer based in Limerick, Ireland, with 3+ years of experience building and maintaining AWS-based systems.
 
